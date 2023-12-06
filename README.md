@@ -9,7 +9,7 @@
 
 <img
     align="right"
-    width="250"
+    width="260"
     alt="Shimarin"
     src="./assets/mf-heavy.gif" />
 

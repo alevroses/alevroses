@@ -11,11 +11,11 @@
     align="right"
     width="400"
     alt="Shimarin"
-    src="./mf-heavy.gif" />
+    src="./assets/mf-heavy.gif" />
 
   <h2>
     <picture
-      ><img src="./about_me.gif" width="25px"
+      ><img src="./assets/about_me.gif" width="25px"
     /></picture>
     / About me /
   </h2>
@@ -30,22 +30,22 @@
 
   <h2>
     <picture
-      ><img src="./skills.gif" width="25px"
+      ><img src="./assets/skills.gif" width="25px"
     /></picture>
     / Current skills /
   </h2>
 
   <div>
-    <img src="./html.gif" width="50px" />
-    <img src="./css.gif" width="50px" />
-    <img src="./js.gif" width="50px" />
-    <img src="./react.gif" width="50px" />
+    <img src="./assets/html.gif" width="50px" />
+    <img src="./assets/css.gif" width="50px" />
+    <img src="./assets/js.gif" width="50px" />
+    <img src="./assets/react.gif" width="50px" />
   </div>
 
 <h2>
   <picture
     ><img
-      src="./hollor_knight3.gif"
+      src="./assets/hollor_knight3.gif"
       width="25px"
   /></picture>
   / How to reach me / :

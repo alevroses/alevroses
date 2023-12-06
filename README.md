@@ -48,7 +48,7 @@
       src="./assets/hollor_knight3.gif"
       width="25px"
   /></picture>
-  / How to reach me / :
+  / How to reach me /
 </h2>
 
 <div align="left">

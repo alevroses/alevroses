@@ -42,39 +42,38 @@
     <img src="./react.gif" width="50px" />
   </div>
 
-  <h2>✉️ / How to reach me / :</h2>
+<h2>
+  <picture
+    ><img
+      src="./hollor_knight3.gif"
+      width="25px"
+  /></picture>
+  / How to reach me / :
+</h2>
 
-  <div align="left">
-    <ul>
-      <li>
-        <a
-          href="https://www.linkedin.com/in/ale-roses/"
-          target="_blank">
-          <img
-            src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="linkedin" />
-        </a>
-      </li>
-  <br />
-			<li>
-				<a
-					href="https://twitter.com/0xabdulkhalid"
-					target="_blank">
-					<img
-						src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"
-						alt="twitter" />
-				</a>
-			</li>
-			<br />
-			<li>
-				<a
-					href="mailto:0xabdulkhalid@gmail.com"
-					target="_blank">
-					<img
-						src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-						t="mail" />
-				</a>
-			</li>
+<div align="left">
+  <ul>
+    <a
+      href="https://twitter.com/alerxses"
+      target="_blank">
+      <img
+        src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
+        alt="twitter" />
+    </a>
+    <a
+      href="https://www.linkedin.com/in/ale-roses/"
+      target="_blank">
+      <img
+        src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
+        t="linkedin" />
+    </a>
+    <a
+      href="https://github.com/aleroses"
+      target="_blank">
+      <img
+        src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
+        t="github" />
+    </a>
     </ul>
   </div>
 </div>
